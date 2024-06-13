@@ -1,4 +1,5 @@
 ## Hi there 👋
+<p>I graduated from Computer Engineering and continue Master\'s degree in Deep learning Object detection</p>
 
 <!--
 **amr552/amr552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
