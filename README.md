@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amr Naguib
 ==================================================================================================================================
 
-Data Scientist & Mobile Developer (Flutter)
+Data Scientist & AI
 -------------------------------------------
 
-Qualified data science and Flutter developer with extensive background in advanced management processes. Utilises superior communication skills to build meaningful, trusting relationships that exceed client demands. Highly skilled project manager with outstanding team leadership abilities to meet targets consistently.
+Qualified data science and AI with extensive background in advanced management processes. Utilises superior communication skills to build meaningful, trusting relationships that exceed client demands. Highly skilled project manager with outstanding team leadership abilities to meet targets consistently.
 
-* 🌍  I'm based in Turkey
+* 🌍  I'm based in Netherlands
 * ✉️  You can contact me at [naguib453@gmail.com](mailto:naguib453@gmail.com)
-* 🧠  I'm learning Data science
-* 🤝  I'm open to collaborating on Data science, deep learning, Mobile developing, web developing, projects build by python
-* ⚡  I got an Erasmus student exchange in Master's degree
+* 🧠  I have been educating Data Analysis and science Interactive Bootcamps.
+* 🤝  I'm open to collaborating on Data science, deep learning projects build by python
+* ⚡  I have got an internship of Erasmus student exchange in Master's degree
 
 ### Skills
 
