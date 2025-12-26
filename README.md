@@ -7,7 +7,7 @@ Data Scientist & AI
 Qualified data science and AI with extensive background in advanced management processes. Utilises superior communication skills to build meaningful, trusting relationships that exceed client demands. Highly skilled project manager with outstanding team leadership abilities to meet targets consistently.
 
 * 🌍  I'm based in Netherlands
-* ✉️  You can contact me at [naguib453@gmail.com](mailto:naguib453@gmail.com)
+* ✉️  You can contact me at [ahmed.m7619@gmail.com](mailto:ahmed.m7619@gmail.com)
 * 🧠  I have been educating Data Analysis and science Interactive Bootcamps.
 * 🤝  I'm open to collaborating on Data science, deep learning projects build by python
 * ⚡  I have got an internship of Erasmus student exchange in Master's degree
